@@ -1,10 +1,11 @@
 # mssql 终端连接工具|命令执行
 
-![](./whoam.png)
+![](./whoami.png)
 
 ## Example
 ```
-./mssql-command-tool-mac -s 10.10.10.10 -u sa -p jas502n -P 1433 -c "whoami"                                                                                                          
+./mssql-command-tool-mac -s 10.10.10.10 -u sa -p jas502n -P 1433 -c "whoami"   
+
 nt service\mssqlserver
 
 
