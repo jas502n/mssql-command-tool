@@ -9,7 +9,7 @@
 nt service\mssqlserver
 
 
-/mssql-command-tool-mac -s 10.10.10.10 -u sa -p jas502n -P 1433 -c "net user"
+./mssql-command-tool-mac -s 10.10.10.10 -u sa -p jas502n -P 1433 -c "net user"
 
 \\ 的用户帐户
 
